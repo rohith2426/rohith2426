@@ -67,24 +67,12 @@ To become a skilled Cybersecurity Professional / Ethical Hacker and contribute t
 
 📫 Connect With Me
 
-- LinkedIn: (Add your link here)
-- Email: (Add your email here)
+- LinkedIn: (https://www.linkedin.com/in/rohith-r-b00726293?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: (rohithrajappa2412006@gmail.com)
 
 ---
 
 ⭐ Feel free to explore my repositories and connect with me!
 
 <!--
-**rohith2426/rohith2426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**rohith2426/rohith2426** is a ✨ _special_ ✨ -->
