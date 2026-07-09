@@ -1,6 +1,6 @@
 👋 Hi, I'm Rohith
 
-🎓 3rd Year Computer Science Engineering Student
+🎓 Final Year Computer Science Engineering Student
 💻 Aspiring Ethical Hacker | Python Learner | DSA Learner | Internship Seeker
 
 ---
